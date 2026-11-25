@@ -12,3 +12,8 @@ Preparação (deixa no index para ser versionado)
 Repositório (arquivos salvos)
 
 git add . - adiciona todos os arquivos para a area de preparação, pode especificar cada arquivo também
+git commit -m - versiona e sobre os arquivos e adiciona uma mensagem
+git log - mostra historicos de alterações
+
+git push - enviar
+git push origin - define destino
