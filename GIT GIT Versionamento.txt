@@ -1,0 +1,14 @@
+GIT
+GIT - Versionamento de código
+
+"git clone ____" - copia para pasta atual arquivos que estejam no endereço
+"git status" - mostra como está o repositório, mostra atualizações no repositório
+
+
+Diretório de trabalho (espaço para ser modificado)
+->git add
+Preparação (deixa no index para ser versionado)
+->git commit
+Repositório (arquivos salvos)
+
+git add . - adiciona todos os arquivos para a area de preparação, pode especificar cada arquivo também
