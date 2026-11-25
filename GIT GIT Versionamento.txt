@@ -17,3 +17,7 @@ git log - mostra historicos de alterações
 
 git push - enviar
 git push origin - define destino
+
+git pull - pegar da nuvem pra maquina
+username: Helio-Hugo
+password: token
